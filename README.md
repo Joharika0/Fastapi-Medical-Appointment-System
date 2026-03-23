@@ -36,8 +36,10 @@ The system demonstrates real-world backend concepts such as **API design, data v
 
 Fastapi_Medical_Appointment_System
 │
-├── main.py # FastAPI application with all API endpoints
-├── README.md # Project documentation
+├── main.py 
+├── README.md
+├── requirements.txt
+├── Screenshots
 
 
 ---
